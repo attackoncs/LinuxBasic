@@ -103,5 +103,6 @@ prefix - ? 可以随时查看快捷键列表
     + gg=G:将全文代码格式化
     + Ctrl + q:当vim卡死时，可以取消当前正在执行的命令
     + 滚屏:CTRL-U/D向上/下移动半屏。CTRL-E/Y向上/下滚动一行。CTRL-F/B向前/后滚动一整屏。zz/zt/zb当前行置为屏幕正中央/顶端/底端
+    + Ctrl + s/q终止/继续向中断输出
 
 ![vim-sheet](pic/vim-sheet.png)
